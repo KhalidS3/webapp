@@ -1,0 +1,13 @@
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-flow: row | nowrap;
+    justify-content: space-around;
+}
+
+.container img {
+    width: 100%;
+}
